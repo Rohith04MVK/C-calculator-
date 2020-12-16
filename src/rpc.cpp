@@ -30,35 +30,54 @@ int main()
     switch (human)
     {
     case 1:
-        cout << "You chose " <<roc;
+        cout << "You chose " << roc;
         break;
 
     case 2:
         cout << "You chose " << pap;
         break;
     case 3:
-        cout<< "You chose " << sci;
+        cout << "You chose " << sci;
         break;
     default:
         cout << "Invalid input\n";
-
     }
 
     switch (computer)
     {
     case 1:
-        cout << "Computer chose " <<roc;
+        cout << "Computer chose " << roc;
         break;
 
     case 2:
         cout << "Computer chose " << pap;
         break;
     case 3:
-        cout<< "Computer chose " << sci;
+        cout << "Computer chose " << sci;
         break;
     default:
         cout << "Invalid input\n";
+    }
 
+    if (human == computer)
+    {
+        cout << "Tie!";
+    }
+    else if (human == 1 && computer == 3)
+    {
+        cout << "Your won!";
+    }
+    else if (human == 2 && computer == 1)
+    {
+        cout << "You won!";
+    }
+    else if (human == 3 && computer == 2)
+    {
+        cout << "You won!";
+    }
+    else
+    {
+        cout << "Sad, you lost =(";
     }
 
     return 0;
