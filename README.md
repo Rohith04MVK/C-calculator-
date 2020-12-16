@@ -7,3 +7,4 @@
 * Claculator
 * Odd or Even
 * Capitalizer 
+* Prime or not
