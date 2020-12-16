@@ -10,3 +10,6 @@
 * Odd or Even
 * Capitalizer
 * Prime or not
+* Rock Paper Scissors
+* While loop
+* String reverser
