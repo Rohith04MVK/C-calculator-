@@ -4,6 +4,8 @@
 
 ## Projects
 
+* Hello World
+* For loop
 * Claculator
 * Odd or Even
 * Capitalizer
