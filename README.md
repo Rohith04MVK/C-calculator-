@@ -1,10 +1,10 @@
 # Me trying to learn Cpp
 
-### Making some simple projects to learn C++.
+## Making some simple projects to learn C++
 
-## Projects:
+## Projects
 
 * Claculator
 * Odd or Even
-* Capitalizer 
+* Capitalizer
 * Prime or not
