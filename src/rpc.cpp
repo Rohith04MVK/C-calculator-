@@ -44,5 +44,22 @@ int main()
 
     }
 
+    switch (computer)
+    {
+    case 1:
+        cout << "Computer chose " <<roc;
+        break;
+
+    case 2:
+        cout << "Computer chose " << pap;
+        break;
+    case 3:
+        cout<< "Computer chose " << sci;
+        break;
+    default:
+        cout << "Invalid input\n";
+
+    }
+
     return 0;
 }
