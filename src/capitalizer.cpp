@@ -17,9 +17,8 @@ string capitalizer(string text)
         {
             text[i] = toupper(text[i]);
         }
-       
     }
-     return text;
+    return text;
 }
 
 int main()
