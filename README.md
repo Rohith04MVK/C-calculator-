@@ -13,3 +13,4 @@
 * Rock Paper Scissors
 * While loop
 * String reverser
+* Dice simulator
