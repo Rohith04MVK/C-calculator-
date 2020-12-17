@@ -1,9 +1,10 @@
 #include <iostream>
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 
 using namespace std;
 
-int main(){
+int main()
+{
     string str;
     cout << "Enter a word: ";
     cin >> str;
