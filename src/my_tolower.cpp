@@ -7,6 +7,6 @@ char lowercase(char alpha){
 }
 
 int main(){
-    cout << lowercase('A');
+    cout << lowercase('H');
     return 0;
 }
