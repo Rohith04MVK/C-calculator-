@@ -15,12 +15,12 @@ string capitalizer(string text)
     {
         if (i == 0)
         {
-            text[i] = toupper(text[i]);
+            text[i] = uppercase(text[i]);
         }
 
         else if (text[i - 1] == ' ')
         {
-            text[i] = toupper(text[i]);
+            text[i] = uppercase(text[i]);
         }
     }
     return text;
