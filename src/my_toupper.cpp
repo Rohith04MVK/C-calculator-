@@ -5,7 +5,7 @@ using namespace std;
 
 char uppercase(char bla)
 {
-    return bla -('a'-'A');
+    return bla - ('a' - 'A');
 }
 
 string capitalizer(string text)
