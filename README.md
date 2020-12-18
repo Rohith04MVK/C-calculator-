@@ -14,3 +14,5 @@
 * While loop
 * String reverser
 * Dice simulator
+* Custom toupper
+* Custom tolower
