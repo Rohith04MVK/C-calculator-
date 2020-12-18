@@ -25,3 +25,10 @@ string capitalizer(string text)
     }
     return text;
 }
+
+int main()
+{
+    cout << "\n"
+         << capitalizer("capitals are boring");
+    return 0;
+}
