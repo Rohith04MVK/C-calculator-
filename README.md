@@ -1,6 +1,6 @@
 # Me trying to learn Cpp
 
-## Making some simple projects to learn C++.
+## Making some simple projects to learn C++
 
 ## Projects
 
@@ -15,4 +15,3 @@
 * String reverser
 * Dice simulator
 * Custom toupper
-* Custom tolower
