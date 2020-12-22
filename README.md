@@ -4,14 +4,19 @@
 
 ## Projects
 
+### Fundamentals
+
 * Hello World
 * For loop
-* Claculator
-* Odd or Even
-* Capitalizer
-* Prime or not
-* Rock Paper Scissors
-* While loop
 * String reverser
+* Capitalizer
+* While loop
+
+### Applications
+
+* Rock Paper Scissors
+* Prime or no
 * Dice simulator
 * Custom toupper
+* Claculator
+* Odd or Even
