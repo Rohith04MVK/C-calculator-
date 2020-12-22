@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main(){
+int main()
+{
 
     int year;
 
@@ -15,7 +16,7 @@ int main(){
     }
     else
     {
-        cout << year << " is not a leap year";     
+        cout << year << " is not a leap year";
     }
     return 0;
 }
