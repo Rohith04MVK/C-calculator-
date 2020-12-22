@@ -20,3 +20,4 @@
 * Custom toupper
 * Claculator
 * Odd or Even
+* Leap year finder
