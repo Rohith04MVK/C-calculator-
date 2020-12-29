@@ -9,6 +9,6 @@ int main()
     {
         factorial = factorial * a;
     }
-    cout << "Factorial of " << num << "is " << factorial;
+    cout << "Factorial of " << num << " is " << factorial;
     return 0;
 }
