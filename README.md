@@ -21,3 +21,4 @@
 * Claculator
 * Odd or Even
 * Leap year finder
+* Factorail finder
