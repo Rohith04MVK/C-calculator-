@@ -11,6 +11,7 @@
 * String reverser
 * Capitalizer
 * While loop
+* Arrays
 
 ### Applications
 
