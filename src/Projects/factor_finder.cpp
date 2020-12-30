@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main(){
+int main()
+{
     cout << "Still in progress";
     return 0;
 }
