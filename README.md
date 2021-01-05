@@ -23,3 +23,4 @@
 * Odd or Even
 * Leap year finder
 * Factorial finder
+* Factor finder
