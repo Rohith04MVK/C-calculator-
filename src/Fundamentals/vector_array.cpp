@@ -17,7 +17,7 @@ int main()
         cout << *i << " ";
     }
 
-    
+    cout << my_array.size();
 
     return 0;
 }
