@@ -17,7 +17,7 @@ int main()
         cout << *i << " ";
     }
 
-    cout << "\n" << my_array.size();
+    cout << "\n" << "Size of array: " << my_array.size();
 
     return 0;
 }
