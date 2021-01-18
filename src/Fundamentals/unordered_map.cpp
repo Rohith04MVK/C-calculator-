@@ -11,6 +11,11 @@ int main()
     umap["Plain"] = 150;
     umap["Cheesy"] = 170;
 
-    for (auto i : umap)
-        cout << i.first << " " << i.second << endl;
+    for (auto i : umap){
+        cout << i.first << " " << i.second << endl;}
+    
+    for (auto key : umap){
+        cout << key.first << " ";
+    }
+
 }
