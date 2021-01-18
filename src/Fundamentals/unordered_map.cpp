@@ -12,7 +12,7 @@ int main()
     umap["Plain"] = 150; 
     umap["Cheesy"] = 170; 
 
-    for (auto x : umap) 
+    for (auto i : umap) 
       cout << i.first << " " << i.second << endl; 
   
 } 
