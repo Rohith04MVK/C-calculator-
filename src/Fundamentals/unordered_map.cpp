@@ -1,11 +1,18 @@
-#include <iostream>
-#include <unordered_map>
+#include <iostream> 
+#include <unordered_map> 
+using namespace std; 
+  
+int main() 
+{ 
 
-using namespace std;
+    unordered_map<string, int> umap; 
+  
 
-int main()
-{
-    cout << "Under work";
+    umap["Pepperoni"] = 200; 
+    umap["Plain"] = 150; 
+    umap["Cheesy"] = 170; 
 
-    return 0;
-}
+    for (auto x : umap) 
+      cout << i.first << " " << i.second << endl; 
+  
+} 
